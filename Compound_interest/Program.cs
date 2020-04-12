@@ -8,7 +8,7 @@ namespace Compound_interest
 {
     class Program
     {
-        //Функция рассчета сложного процента
+        //Функция расчета сложного процента
         static double Calculate(string userInput)
         {
             string[] wordsOfInput = userInput.Split(' ');
